@@ -65,7 +65,7 @@ jobs:
           python - <<'PY'
           import json
           import math
-          from datetime import datetime, timezone
+          from datetime import datetime, timezone, timedelta
 
           with open("market.json", encoding="utf-8") as f:
               data = json.load(f)
@@ -75,13 +75,14 @@ jobs:
               raise SystemExit("market.json has no updated_at timestamp")
 
           try:
-              updated = datetime.strptime(updated_at, "%Y-%m-%d %H:%M:%S").replace(
-                  tzinfo=timezone.utc
-              )
+              tehran_tz = timezone(timedelta(hours=3, minutes=30))
+              updated = datetime.strptime(
+                  updated_at, "%Y-%m-%d %H:%M:%S"
+              ).replace(tzinfo=tehran_tz)
           except ValueError as exc:
               raise SystemExit(f"Invalid updated_at format: {exc}")
 
-          age_seconds = (datetime.now(timezone.utc) - updated).total_seconds()
+          age_seconds = (datetime.now(timezone.utc) - updated.astimezone(timezone.utc)).total_seconds()
           if age_seconds < -120 or age_seconds > 15 * 60:
               raise SystemExit(
                   f"Refusing to publish stale/future data: updated_at={updated_at}, "
