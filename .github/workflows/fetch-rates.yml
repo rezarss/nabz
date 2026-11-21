@@ -3,44 +3,163 @@ name: Fetch Market Rates & Update API
 on:
   schedule:
     - cron: '*/5 * * * *'
-  workflow_dispatch:      # Manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: market-rates-update
+  cancel-in-progress: false
+
 env:
   TZ: Asia/Tehran
+  PYTHONUNBUFFERED: "1"
 
 jobs:
   update-rates:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml cloudscraper matplotlib tzdata
 
-      - name: Run fetch script and generate outputs
-        run: python fetch_rates.py
+      - name: Fetch market data (retry on failure)
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+
+          for attempt in 1 2 3; do
+            echo "Market data attempt ${attempt}/3"
+            if python fetch_rates.py; then
+              echo "Fetcher completed."
+              exit 0
+            fi
+
+            if [ "${attempt}" -lt 3 ]; then
+              delay=$((attempt * 30))
+              echo "Fetcher failed; retrying in ${delay}s..."
+              sleep "${delay}"
+            fi
+          done
+
+          echo "::error::Market data fetch failed after 3 attempts."
+          exit 1
+
+      - name: Validate market data before publishing
+        run: |
+          python - <<'PY'
+          import json
+          import math
+          from datetime import datetime, timezone
+
+          with open("market.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          updated_at = data.get("updated_at")
+          if not updated_at:
+              raise SystemExit("market.json has no updated_at timestamp")
+
+          try:
+              updated = datetime.strptime(updated_at, "%Y-%m-%d %H:%M:%S").replace(
+                  tzinfo=timezone.utc
+              )
+          except ValueError as exc:
+              raise SystemExit(f"Invalid updated_at format: {exc}")
+
+          age_seconds = (datetime.now(timezone.utc) - updated).total_seconds()
+          if age_seconds < -120 or age_seconds > 15 * 60:
+              raise SystemExit(
+                  f"Refusing to publish stale/future data: updated_at={updated_at}, "
+                  f"age_seconds={age_seconds:.0f}"
+              )
+
+          core_symbols = ("usd", "gold_18k", "coin_emami")
+          available_core = [
+              key for key in core_symbols
+              if isinstance(data.get(key), (int, float))
+              and math.isfinite(data[key])
+              and data[key] > 0
+          ]
+          if len(available_core) < 2:
+              raise SystemExit(
+                  "Core market data is incomplete. "
+                  f"Available core symbols: {available_core}"
+              )
+
+          expected_symbols = (
+              "usd eur aed try gbp cad aud cny rub iqd myr gel azn amd thb omr "
+              "inr pkr jpy sar afn sek chf qar krw nok nzd sgd hkd kwd dkk bhd "
+              "tjs tmt kgs syp brl ars gold_mesghal gold_18k coin_emami "
+              "coin_bahar coin_half coin_quarter coin_gram usd_xau"
+          ).split()
+
+          available_count = sum(
+              1 for key in expected_symbols
+              if isinstance(data.get(key), (int, float))
+              and math.isfinite(data[key])
+              and data[key] > 0
+          )
+          minimum_count = math.ceil(len(expected_symbols) * 0.5)
+
+          if available_count < minimum_count:
+              raise SystemExit(
+                  f"Too few valid prices: {available_count}/{len(expected_symbols)} "
+                  f"(minimum {minimum_count}). Nothing will be published."
+              )
+
+          print(
+              f"Validation passed: {available_count}/{len(expected_symbols)} "
+              f"prices available; core={', '.join(available_core)}; "
+              f"updated_at={updated_at}"
+          )
+          PY
 
       - name: Commit and push changes
+        shell: bash
         run: |
+          set -Eeuo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add market.json README.md api/*.json *.png share/*.html charts/*.png
-          
-          if git diff --staged --quiet; then
+
+          # Stage generated and updated files without failing on optional/missing globs.
+          git add -A
+
+          if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "chore(auto): update rates, API history and charts [skip ci]"
-            git push
+            exit 0
           fi
+
+          git commit -m "chore(auto): update rates, API history and charts [skip ci]"
+
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "Changes pushed successfully."
+              exit 0
+            fi
+
+            if [ "${attempt}" -lt 3 ]; then
+              echo "Push failed; syncing branch and retrying..."
+              git fetch origin "${GITHUB_REF_NAME}"
+              git rebase "origin/${GITHUB_REF_NAME}"
+              sleep $((attempt * 10))
+            fi
+          done
+
+          echo "::error::Could not push generated market data after 3 attempts."
+          exit 1
