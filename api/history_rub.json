@@ -3,10 +3,10 @@
   "title": "روبل روسیه",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-23 12:50:33",
+  "updated_at": "2026-11-23 12:55:38",
   "total_records": 1220,
   "latest": {
-    "timestamp": 1795425633,
+    "timestamp": 1795425938,
     "date": "2026-11-23",
     "price": 3315,
     "price_toman": 3315,
@@ -8547,7 +8547,7 @@
       "price_irr": 32850
     },
     {
-      "timestamp": 1795425633,
+      "timestamp": 1795425938,
       "date": "2026-11-23",
       "price": 3315,
       "price_toman": 3315,
