@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۲ آذر ۱۴۰۵ (2026-11-23) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۶:۰۰** (به وقت تهران)
+> 📅 **تاریخ:** ۲ آذر ۱۴۰۵ (2026-11-23) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۶:۰۵** (به وقت تهران)
 
 <br/>
 
@@ -37,17 +37,17 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۷۲،۴۹۴ تومان</b></td>
+<td align="left"><b>۲۷۲،۶۷۷ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۸،۷۰۰ تومان</b></td>
+<td align="left"><b>۲۹۹،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۷۴،۲۰۰ تومان</b></td>
+<td align="left"><b>۷۴،۲۵۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
@@ -57,22 +57,22 @@
 <tr>
 <td align="center">🇬🇧</td>
 <td><b>پوند انگلیس</b></td>
-<td align="left"><b>۳۵۳،۳۰۰ تومان</b></td>
+<td align="left"><b>۳۵۳،۶۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇦</td>
 <td><b>دلار کانادا</b></td>
-<td align="left"><b>۱۹۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۹۰،۱۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇺</td>
 <td><b>دلار استرالیا</b></td>
-<td align="left"><b>۱۸۰،۷۰۰ تومان</b></td>
+<td align="left"><b>۱۸۰،۸۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇳</td>
 <td><b>یوان چین</b></td>
-<td align="left"><b>۴۰،۹۴۰ تومان</b></td>
+<td align="left"><b>۴۰،۹۸۰ تومان</b></td>
 </tr>
 
 <!-- بخش مسکوکات و طلا -->
@@ -97,7 +97,7 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۵،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۳،۷۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -117,7 +117,7 @@
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۳،۶۱۵.۰۶ دلار</b></td>
+<td align="left"><b>۳،۶۱۳.۷۲ دلار</b></td>
 </tr>
 
 <!-- کامودیتی -->
@@ -127,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۲.۴۰ دلار</b></td>
+<td align="left"><b>۸۲.۳۳ دلار</b></td>
 </tr>
 
 </tbody>
