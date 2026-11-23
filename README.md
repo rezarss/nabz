@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۲ آذر ۱۴۰۵ (2026-11-23) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۲:۴۵** (به وقت تهران)
+> 📅 **تاریخ:** ۲ آذر ۱۴۰۵ (2026-11-23) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۲:۵۰** (به وقت تهران)
 
 <br/>
 
@@ -37,17 +37,17 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۷۱،۲۸۲ تومان</b></td>
+<td align="left"><b>۲۷۱،۶۸۶ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۸،۳۰۰ تومان</b></td>
+<td align="left"><b>۲۹۸،۶۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۷۳،۸۷۰ تومان</b></td>
+<td align="left"><b>۷۳،۹۸۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
@@ -57,12 +57,12 @@
 <tr>
 <td align="center">🇬🇧</td>
 <td><b>پوند انگلیس</b></td>
-<td align="left"><b>۳۵۲،۹۰۰ تومان</b></td>
+<td align="left"><b>۳۵۳،۲۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇦</td>
 <td><b>دلار کانادا</b></td>
-<td align="left"><b>۱۸۹،۵۰۰ تومان</b></td>
+<td align="left"><b>۱۸۹،۷۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇺</td>
@@ -72,7 +72,7 @@
 <tr>
 <td align="center">🇨🇳</td>
 <td><b>یوان چین</b></td>
-<td align="left"><b>۴۰،۷۸۰ تومان</b></td>
+<td align="left"><b>۴۰،۸۴۰ تومان</b></td>
 </tr>
 
 <!-- بخش مسکوکات و طلا -->
@@ -107,17 +107,17 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۴،۰۵۴،۶۷۰ تومان</b></td>
+<td align="left"><b>۲۴،۰۵۹،۲۸۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۰۴،۲۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۰۴،۲۲۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۳،۶۱۲.۱۲ دلار</b></td>
+<td align="left"><b>۳،۶۱۱.۹۲ دلار</b></td>
 </tr>
 
 <!-- کامودیتی -->
@@ -127,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۲.۵۸ دلار</b></td>
+<td align="left"><b>۸۲.۵۲ دلار</b></td>
 </tr>
 
 </tbody>
