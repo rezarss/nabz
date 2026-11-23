@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۲ آذر ۱۴۰۵ (2026-11-23) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۶:۱۵** (به وقت تهران)
+> 📅 **تاریخ:** ۲ آذر ۱۴۰۵ (2026-11-23) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۶:۲۰** (به وقت تهران)
 
 <br/>
 
@@ -37,37 +37,37 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۷۳،۰۰۸ تومان</b></td>
+<td align="left"><b>۲۷۲،۹۷۱ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۹،۳۰۰ تومان</b></td>
+<td align="left"><b>۲۹۹،۲۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۷۴،۳۴۰ تومان</b></td>
+<td align="left"><b>۷۴،۳۳۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
 <td><b>لیر ترکیه</b></td>
-<td align="left"><b>۵،۴۹۰ تومان</b></td>
+<td align="left"><b>۵،۵۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇬🇧</td>
 <td><b>پوند انگلیس</b></td>
-<td align="left"><b>۳۵۴،۰۰۰ تومان</b></td>
+<td align="left"><b>۳۵۴،۵۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇦</td>
 <td><b>دلار کانادا</b></td>
-<td align="left"><b>۱۹۰،۴۰۰ تومان</b></td>
+<td align="left"><b>۱۹۰،۶۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇺</td>
 <td><b>دلار استرالیا</b></td>
-<td align="left"><b>۱۸۱،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۸۱،۲۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇳</td>
@@ -107,7 +107,7 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۴،۳۳۱،۶۹۰ تومان</b></td>
+<td align="left"><b>۲۴،۴۴۷،۱۱۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
@@ -127,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۲.۳۲ دلار</b></td>
+<td align="left"><b>۸۲.۱۲ دلار</b></td>
 </tr>
 
 </tbody>
