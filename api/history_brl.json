@@ -3,14 +3,14 @@
   "title": "رئال برزیل",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-23 11:25:42",
+  "updated_at": "2026-11-23 11:30:38",
   "total_records": 1220,
   "latest": {
-    "timestamp": 1795420542,
+    "timestamp": 1795420838,
     "date": "2026-11-23",
-    "price": 45600,
-    "price_toman": 45600,
-    "price_irr": 456000
+    "price": 45640,
+    "price_toman": 45640,
+    "price_irr": 456400
   },
   "history": [
     {
@@ -8547,11 +8547,11 @@
       "price_irr": 451600
     },
     {
-      "timestamp": 1795420542,
+      "timestamp": 1795420838,
       "date": "2026-11-23",
-      "price": 45600,
-      "price_toman": 45600,
-      "price_irr": 456000
+      "price": 45640,
+      "price_toman": 45640,
+      "price_irr": 456400
     }
   ]
 }
