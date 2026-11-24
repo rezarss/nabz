@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۳ آذر ۱۴۰۵ (2026-11-24) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۲:۰۵** (به وقت تهران)
+> 📅 **تاریخ:** ۳ آذر ۱۴۰۵ (2026-11-24) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۲:۱۰** (به وقت تهران)
 
 <br/>
 
@@ -37,17 +37,17 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۸۰،۶۴۶ تومان</b></td>
+<td align="left"><b>۲۸۰،۸۶۷ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۳۰۶،۲۰۰ تومان</b></td>
+<td align="left"><b>۳۰۶،۵۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۷۶،۴۲۰ تومان</b></td>
+<td align="left"><b>۷۶،۴۸۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
@@ -67,12 +67,12 @@
 <tr>
 <td align="center">🇦🇺</td>
 <td><b>دلار استرالیا</b></td>
-<td align="left"><b>۱۸۵،۹۰۰ تومان</b></td>
+<td align="left"><b>۱۸۶،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇳</td>
 <td><b>یوان چین</b></td>
-<td align="left"><b>۴۲،۲۲۰ تومان</b></td>
+<td align="left"><b>۴۲،۲۶۰ تومان</b></td>
 </tr>
 
 <!-- بخش مسکوکات و طلا -->
@@ -82,7 +82,7 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه تمام امامی (طرح جدید)</b></td>
-<td align="left"><b>۲۶۲،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۶۳،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -117,7 +117,7 @@
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۳،۶۲۰.۱۹ دلار</b></td>
+<td align="left"><b>۳،۶۱۷.۶۶ دلار</b></td>
 </tr>
 
 <!-- کامودیتی -->
@@ -127,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۷۹.۸۶ دلار</b></td>
+<td align="left"><b>۷۹.۶۶ دلار</b></td>
 </tr>
 
 </tbody>
