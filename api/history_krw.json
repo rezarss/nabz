@@ -3,10 +3,10 @@
   "title": "۱۰۰ وون کره",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-24 14:35:49",
+  "updated_at": "2026-11-24 14:40:47",
   "total_records": 1221,
   "latest": {
-    "timestamp": 1795518349,
+    "timestamp": 1795518647,
     "date": "2026-11-24",
     "price": 21100,
     "price_toman": 21100,
@@ -8554,7 +8554,7 @@
       "price_irr": 204700
     },
     {
-      "timestamp": 1795518349,
+      "timestamp": 1795518647,
       "date": "2026-11-24",
       "price": 21100,
       "price_toman": 21100,
