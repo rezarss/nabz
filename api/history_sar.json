@@ -3,10 +3,10 @@
   "title": "ریال عربستان",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-25 20:06:07",
+  "updated_at": "2026-11-25 20:10:54",
   "total_records": 1222,
   "latest": {
-    "timestamp": 1795624567,
+    "timestamp": 1795624854,
     "date": "2026-11-25",
     "price": 78460,
     "price_toman": 78460,
@@ -8561,7 +8561,7 @@
       "price_irr": 759200
     },
     {
-      "timestamp": 1795624567,
+      "timestamp": 1795624854,
       "date": "2026-11-25",
       "price": 78460,
       "price_toman": 78460,
