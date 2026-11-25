@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۴ آذر ۱۴۰۵ (2026-11-25) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۰:۳۱** (به وقت تهران)
+> 📅 **تاریخ:** ۴ آذر ۱۴۰۵ (2026-11-25) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۰:۳۶** (به وقت تهران)
 
 <br/>
 
@@ -42,7 +42,7 @@
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۳۲۴،۰۰۰ تومان</b></td>
+<td align="left"><b>۳۲۳،۹۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
@@ -57,7 +57,7 @@
 <tr>
 <td align="center">🇬🇧</td>
 <td><b>پوند انگلیس</b></td>
-<td align="left"><b>۳۸۳،۷۰۰ تومان</b></td>
+<td align="left"><b>۳۸۳،۶۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇦</td>
@@ -72,7 +72,7 @@
 <tr>
 <td align="center">🇨🇳</td>
 <td><b>یوان چین</b></td>
-<td align="left"><b>۴۴،۴۴۰ تومان</b></td>
+<td align="left"><b>۴۴،۴۲۰ تومان</b></td>
 </tr>
 
 <!-- بخش مسکوکات و طلا -->
@@ -127,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۳.۰۹ دلار</b></td>
+<td align="left"><b>۸۳.۲۱ دلار</b></td>
 </tr>
 
 </tbody>
