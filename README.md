@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۵ آذر ۱۴۰۵ (2026-11-26) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۹:۴۱** (به وقت تهران)
+> 📅 **تاریخ:** ۵ آذر ۱۴۰۵ (2026-11-26) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۹:۴۶** (به وقت تهران)
 
 <br/>
 
@@ -37,7 +37,7 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۹۴،۸۲۲ تومان</b></td>
+<td align="left"><b>۲۹۴،۶۳۸ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
@@ -47,7 +47,7 @@
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۸۰،۲۸۰ تومان</b></td>
+<td align="left"><b>۸۰،۲۳۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
@@ -67,7 +67,7 @@
 <tr>
 <td align="center">🇦🇺</td>
 <td><b>دلار استرالیا</b></td>
-<td align="left"><b>۱۹۵،۸۰۰ تومان</b></td>
+<td align="left"><b>۱۹۵،۷۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇳</td>
@@ -97,7 +97,7 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۷،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۷،۲۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -107,12 +107,12 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۵،۸۲۷،۶۰۰ تومان</b></td>
+<td align="left"><b>۲۵،۸۳۲،۲۲۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۱،۸۸۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۱،۹۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
