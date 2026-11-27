@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۶ آذر ۱۴۰۵ (2026-11-27) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۷:۱۱** (به وقت تهران)
+> 📅 **تاریخ:** ۶ آذر ۱۴۰۵ (2026-11-27) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۷:۱۶** (به وقت تهران)
 
 <br/>
 
@@ -37,7 +37,7 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۹۴،۹۳۲ تومان</b></td>
+<td align="left"><b>۲۹۴،۸۲۲ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
@@ -47,7 +47,7 @@
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۸۰،۳۱۰ تومان</b></td>
+<td align="left"><b>۸۰،۲۸۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
@@ -62,12 +62,12 @@
 <tr>
 <td align="center">🇨🇦</td>
 <td><b>دلار کانادا</b></td>
-<td align="left"><b>۲۰۶،۷۰۰ تومان</b></td>
+<td align="left"><b>۲۰۶،۶۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇺</td>
 <td><b>دلار استرالیا</b></td>
-<td align="left"><b>۱۹۵،۹۰۰ تومان</b></td>
+<td align="left"><b>۱۹۵،۸۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇳</td>
@@ -97,7 +97,7 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۶،۸۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۶،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -112,7 +112,7 @@
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۲،۲۵۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۱،۸۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
@@ -127,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۴.۸۳ دلار</b></td>
+<td align="left"><b>۸۴.۷۱ دلار</b></td>
 </tr>
 
 </tbody>
