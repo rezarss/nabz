@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۶ آذر ۱۴۰۵ (2026-11-27) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۹:۲۶** (به وقت تهران)
+> 📅 **تاریخ:** ۶ آذر ۱۴۰۵ (2026-11-27) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۹:۳۱** (به وقت تهران)
 
 <br/>
 
@@ -37,17 +37,17 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۹۴،۳۴۴ تومان</b></td>
+<td align="left"><b>۲۹۴،۱۲۴ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۳۲۲،۸۰۰ تومان</b></td>
+<td align="left"><b>۳۲۲،۶۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۸۰،۱۵۰ تومان</b></td>
+<td align="left"><b>۸۰،۰۹۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
@@ -127,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۳.۶۳ دلار</b></td>
+<td align="left"><b>۸۳.۶۷ دلار</b></td>
 </tr>
 
 </tbody>
