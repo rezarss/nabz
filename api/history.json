@@ -3,10 +3,10 @@
   "title": "دلار آمریکا",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-27 20:20:58",
+  "updated_at": "2026-11-27 20:26:03",
   "total_records": 1224,
   "latest": {
-    "timestamp": 1795798258,
+    "timestamp": 1795798563,
     "date": "2026-11-27",
     "price": 293941,
     "price_toman": 293941,
@@ -8575,7 +8575,7 @@
       "price_irr": 2938300
     },
     {
-      "timestamp": 1795798258,
+      "timestamp": 1795798563,
       "date": "2026-11-27",
       "price": 293941,
       "price_toman": 293941,
