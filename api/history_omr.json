@@ -3,10 +3,10 @@
   "title": "ریال عمان",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-27 23:40:58",
+  "updated_at": "2026-11-27 23:46:00",
   "total_records": 1224,
   "latest": {
-    "timestamp": 1795810258,
+    "timestamp": 1795810560,
     "date": "2026-11-27",
     "price": 764700,
     "price_toman": 764700,
@@ -8575,7 +8575,7 @@
       "price_irr": 7632000
     },
     {
-      "timestamp": 1795810258,
+      "timestamp": 1795810560,
       "date": "2026-11-27",
       "price": 764700,
       "price_toman": 764700,
