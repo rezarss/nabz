@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۷ آذر ۱۴۰۵ (2026-11-28) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۳:۳۱** (به وقت تهران)
+> 📅 **تاریخ:** ۷ آذر ۱۴۰۵ (2026-11-28) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۳:۳۶** (به وقت تهران)
 
 <br/>
 
@@ -42,7 +42,7 @@
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۳۲۷،۹۰۰ تومان</b></td>
+<td align="left"><b>۳۲۸،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
@@ -57,12 +57,12 @@
 <tr>
 <td align="center">🇬🇧</td>
 <td><b>پوند انگلیس</b></td>
-<td align="left"><b>۳۸۸،۴۰۰ تومان</b></td>
+<td align="left"><b>۳۸۸،۷۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇦</td>
 <td><b>دلار کانادا</b></td>
-<td align="left"><b>۲۰۹،۶۰۰ تومان</b></td>
+<td align="left"><b>۲۰۹،۷۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇺</td>
@@ -72,7 +72,7 @@
 <tr>
 <td align="center">🇨🇳</td>
 <td><b>یوان چین</b></td>
-<td align="left"><b>۴۴،۹۸۰ تومان</b></td>
+<td align="left"><b>۴۵،۰۲۰ تومان</b></td>
 </tr>
 
 <!-- بخش مسکوکات و طلا -->
@@ -82,12 +82,12 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه تمام امامی (طرح جدید)</b></td>
-<td align="left"><b>۲۶۸،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۶۹،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه بهار آزادی (طرح قدیم)</b></td>
-<td align="left"><b>۲۵۸،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۵۹،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -107,12 +107,12 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۶،۳۴۰،۰۹۰ تومان</b></td>
+<td align="left"><b>۲۶،۴۳۲،۴۳۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۴،۱۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۴،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
