@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۷ آذر ۱۴۰۵ (2026-11-28) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۱:۴۶** (به وقت تهران)
+> 📅 **تاریخ:** ۷ آذر ۱۴۰۵ (2026-11-28) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۱:۵۱** (به وقت تهران)
 
 <br/>
 
@@ -37,17 +37,17 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۹۴،۶۳۸ تومان</b></td>
+<td align="left"><b>۲۹۴،۶۷۵ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۳۲۳،۱۰۰ تومان</b></td>
+<td align="left"><b>۳۲۳،۲۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۸۰،۲۳۰ تومان</b></td>
+<td align="left"><b>۸۰،۲۴۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
@@ -112,7 +112,7 @@
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۲،۵۵۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۲،۳۷۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
